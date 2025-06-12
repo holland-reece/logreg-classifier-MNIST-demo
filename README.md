@@ -1,8 +1,9 @@
 # Logistic Regression Classifier Demo with MNIST dataset
 
-### Holland Brown
+#### Holland Brown
 
-### 2022-04-21
+#### Updated 2025-06-12
+#### Created 2022-04-21
 
 #### Description
 - use logistic regression classifier on MNIST dataset
